@@ -20,7 +20,7 @@ set up your OpenAI API key as "KEY" environment variable (e.g. via .env file if 
 As the UI might not fully render in a small window within an IDE I recommend connecting to the URL returned by Gradio, e.g. the default http://127.0.0.1:7860/ with your browser <br><br>
 
 ### Usage
-provide your CV on the left-most tab, provide the Job Description on the middle tab and begin the interview on the righ-most tab. <br><br>
+provide your CV on the left-most tab, provide the Job Description on the middle tab and begin the interview on the right-most tab. <br><br>
 
 
 ### LICENSE AND DISCLAIMER:
