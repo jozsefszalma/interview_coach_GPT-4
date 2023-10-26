@@ -16,7 +16,7 @@ navigate to http://127.0.0.1:7860/ with your browser <br><br>
 ### From Notebook
 create a Python 3.9 venv or conda environment <br>
 install dependencies e.g. pip install -r requirements.txt <br>
-
+set up your OpenAI API key as "KEY" environment variable (e.g. via .env file if using VSCode) <br>
 As the UI might not fully render in a small window within an IDE I recommend connecting to the URL returned by Gradio, e.g. the default http://127.0.0.1:7860/ with your browser <br><br>
 
 ### Usage
