@@ -1,6 +1,9 @@
 # Job Interview Coach
 ### Mock Interview with Feedback
 
+![image](https://github.com/jozsefszalma/interview_coach_GPT-4/assets/96535232/c43b59c5-590f-4a81-a1f9-bdea7dc50c69)
+
+
 # Setup
 Clone repo into a folder of your choice.<br>
 
