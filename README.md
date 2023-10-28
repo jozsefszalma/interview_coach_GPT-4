@@ -11,7 +11,7 @@ Clone repo into a folder of your choice.<br>
 run in the same folder: <br>
 * docker build -t interview_bot . 
 * docker run -p 7860:7860 --env KEY=your_openai_api_key interview_bot <br>
-navigate to http://127.0.0.1:7860/ with your browser <br><br>
+* navigate to http://127.0.0.1:7860/ with your browser <br><br>
 
 ### From Notebook
 * create a Python 3.9 venv or conda environment <br>
